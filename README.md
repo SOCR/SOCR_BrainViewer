@@ -1,6 +1,6 @@
 # SOCR BrainViewer
 
-<a href="http://socr.umich.edu/HTML5/BrainViewer/"><img align="middle" src="https://raw.githubusercontent.com/SOCR/BrainViewer/master/Images/SOCR_BrainViewer_Pic.png"></a>
+<a href="http://socr.umich.edu/HTML5/BrainViewer/"><img align="middle" src="https://raw.githubusercontent.com/SOCR/SOCR_BrainViewer/05ec77e78ac10820d01486ee969219a04ecede7f/SOCR_BrainViewer_Pic.png"></a>
 
 **A Lightweight 3D HTML5/JavaScript Brain and Biostructure Viewer**
 
