@@ -24,8 +24,8 @@ This is a lightweight 3D anatomical bio-structure viewer written purely in HTML5
 Code
 =========
 
-The code is organized in the following self-explanatory directories -- [css](), [data](), [gfx](), [js]() -- and the main file launching the app in the browser s [index.html]().
-The entire package can be downloaded as a [self-contained ZIP file](). Additional test datasets are available on the [DSPA website](https://dspa2.predictive.space/).
+The code is organized in the following self-explanatory directories -- [css](https://github.com/SOCR/SOCR_BrainViewer/tree/main/css), [data](https://github.com/SOCR/SOCR_BrainViewer/tree/main/data), [gfx](https://github.com/SOCR/SOCR_BrainViewer/tree/main/gfx), [js](https://github.com/SOCR/SOCR_BrainViewer/tree/main/js) -- and the main file launching the app in the browser s [index.html]().
+The entire package can be downloaded as a [self-contained (release V1.0) ZIP file](https://github.com/SOCR/SOCR_BrainViewer/releases/tag/V1.0). Additional test datasets are available on the [DSPA website](https://dspa2.predictive.space/).
 
 Acknowledgments
 ===============
